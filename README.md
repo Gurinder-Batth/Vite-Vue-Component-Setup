@@ -38,9 +38,10 @@
 
 ## Demo
 
-https://gurinder-batth.github.io/Vite-Vue-Component-Setup/dist
+https://gurinder-batth.github.io/Vite-Vue-independent-component-setup-/dist/
 
-
+## Here we can see how the index.html build file look.
+https://github.com/Gurinder-Batth/Vite-Vue-Component-Setup/blob/main/dist/index.html
 
 ## Features
 
@@ -53,7 +54,7 @@ https://gurinder-batth.github.io/Vite-Vue-Component-Setup/dist
 To deploy this project just clone the code from github
 
 ```bash
-git clone https://github.com/Gurinder-Batth/Vite-Vue-independent-component-setup-.git
+git clone https://github.com/Gurinder-Batth/Vite-Vue-Component-Setup.git
 ```
 ```bash
 yarn
