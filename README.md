@@ -36,6 +36,12 @@
 - You can manage this manually as well.
 
 
+## Demo
+
+https://gurinder-batth.github.io/Vite-Vue-Component-Setup/dist
+
+
+
 ## Features
 
 - Create new component app directly one command `yarn create-app HelloWorld`
