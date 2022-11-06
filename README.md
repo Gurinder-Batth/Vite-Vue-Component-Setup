@@ -14,10 +14,8 @@
 - By using above command new Reusable component will be generate inside the `app/HelloWorld` folder.
 - In this folder we will have two files. 
 
-| Name            | Description                |
-| :--------       :------------------------- |
-| `helloworld.js` | Setup the vue mount point. |
-| `HelloWorld.vue` | Vue default template component file. |
+- `helloworld.js` file is the setup of vue mount point. 
+- `HelloWorld.vue` file is a Vue default template component file. 
 
 - Next this command automatically import this file `App.vue`.
 - So when run `yarn dev` we can see the output of this component.
