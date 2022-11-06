@@ -14,8 +14,8 @@
 - By using above command new Reusable component will be generate inside the `app/HelloWorld` folder.
 - In this folder we will have two files. 
 
-| Name      | Description                |
-| :--------  :------------------------- |
+| Name            | Description                |
+| :--------       :------------------------- |
 | `helloworld.js` | Setup the vue mount point. |
 | `HelloWorld.vue` | Vue default template component file. |
 
